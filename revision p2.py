@@ -1,0 +1,5 @@
+length=float(input('Enter the length of your box:'))
+width=float(input('Enter the width of your box:'))
+height=float(input('Enter the height of your box:'))
+answer=(length*width*height)
+print('Your answer is:',answer)
